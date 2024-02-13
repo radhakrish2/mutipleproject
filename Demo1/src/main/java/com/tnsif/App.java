@@ -14,6 +14,9 @@ public class App
 {
 	public static void main(String[] args) 
 	{	
+		
+		System.out.println("Date Program");
+		System.out.println("Date Program");
 		Date date1 = new Date();
 	
 		

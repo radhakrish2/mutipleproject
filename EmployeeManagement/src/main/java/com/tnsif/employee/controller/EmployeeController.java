@@ -18,7 +18,11 @@ public class EmployeeController {
 	
 	public List<Employee> getAllEmployees()
 	{
+		System.out.println("welcome");
+		System.out.println("welcome");
+		
 		return empRepository.findAll();
+		
 	}
 	
 	
