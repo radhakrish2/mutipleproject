@@ -16,6 +16,7 @@ public class App
 	{	
 		
 		System.out.println("Date Program");
+		System.out.println("Date Program");
 		Date date1 = new Date();
 	
 		
